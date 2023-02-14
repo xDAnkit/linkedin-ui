@@ -1,0 +1,20 @@
+body {
+  margin: 8px;
+}
+html {
+  padding: 0;
+}
+
+.container {
+  padding: 12px;
+}
+
+.section-category {
+  padding: 12px;
+}
+
+.card {
+  border: 1px solid silver;
+
+  margin: 12px;
+}
